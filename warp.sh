@@ -1,4 +1,6 @@
 #!/bin/bash
+#本代码完全依靠Bug运行
+#请不要进行修改, 屎山倒了就跑不了了
 
 export LANG=en_US.UTF-8
 
